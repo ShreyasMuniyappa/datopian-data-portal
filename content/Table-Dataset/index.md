@@ -1,7 +1,7 @@
 ---
 title: 'Table dataset'
 author: 'Shreyas Muniyappa'
-description: 'Office data in Flat Table dataset'
+description: 'Office data in Table dataset'
 modified: '2023-10-14'
 files: ['table-data.csv']
 group: 'Office'
